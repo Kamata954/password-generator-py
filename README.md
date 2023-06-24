@@ -3,7 +3,7 @@ A simple password generator that makes highly secure passwords using python. Pro
 
 **Link to project:** https://replit.com/@KimaniWalker/secure-password-generator#
 
-![alt tag](https://imgur.com/a/r7iYkvz)
+![alt tag](https://i.imgur.com/n0irj7s.png)
 
 ## How It's Made:
 
